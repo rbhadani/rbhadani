@@ -27,6 +27,11 @@ Software engineer with 6 years of experience building scalable distributed syste
 `OAuth` `JWT` `JUnit` `TDD` `System Design` `GitHub Copilot`
 
 ---
+**AI Dev Tools**
+`GitHub Copilot`, `AI-assisted code review`
+
+**AI Engineering**
+`Spring AI`, `OpenAI API`, `RAG Pipelines`, `Vector Store & Embeddings` `Tool-calling`
 
 ## 💼 Experience
 
